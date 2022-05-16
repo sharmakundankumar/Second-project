@@ -1,0 +1,9 @@
+.container .posts .social{
+    text-align: center;
+    margin: 10px 15px;
+    padding: 10px 15px;
+}
+
+.container{
+    padding: 40px;
+}

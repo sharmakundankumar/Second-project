@@ -1,0 +1,15 @@
+.Kunwar-Survilance{
+    /* box-sizing: border-box; */
+    /* border: 23px solid ; */
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 470px;
+    padding: 20px;
+    background-color: #000000;
+    color: #fff;
+}
+
+ img{
+    height: 280px;
+}

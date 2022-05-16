@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@1,500&family=Poppins:wght@400;600&family=Slabo+27px&family=Ubuntu:wght@700&display=swap");
+
+.footer{
+  box-sizing: content-box;
+  background-color: var(--sixth);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-left{
+  display: flex;
+  justify-items: center;
+  margin: 5px;
+}
+
+.footer-left span{
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-left span img{
+  height: 150px;
+}
+
+.footer-right img{
+height: 34px;
+}
+
+.footer-center p{
+  margin: 5px;
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+nav{
+    background-color: var(--sixth);
+    font-family: 'Cuprum';height: 2rem;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.navbar a{
+    margin: 5px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+}

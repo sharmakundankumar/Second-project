@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@1,500&family=Poppins:wght@400;600&family=Slabo+27px&family=Ubuntu:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Cuprum", sans-serif;
+}
+
+:root{
+  --primary:#EC625F;
+  --secondry:#313131;
+  --Third:#414141;
+  --forth:#525252;
+  --fifth:#2CC4CB;
+  --sixth:#000000;
+}

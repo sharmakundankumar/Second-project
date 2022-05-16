@@ -1,0 +1,24 @@
+.container-about{
+  /* background-image: url("../../../public/Background/2.jpg"); */
+  color: white;
+  background-color: #000000;
+  /* background-size:cover; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+.container-about h1 {
+  text-align: center;
+  margin: 30px;
+}
+
+.container-about img {
+  height: 300px;
+}
+
+.container-about p {
+  text-align: center;
+  margin: 20px;
+}
